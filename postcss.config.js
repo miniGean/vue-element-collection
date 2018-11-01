@@ -5,7 +5,7 @@ module.exports = {
   plugins: {
     // autoprefixer: {},
     'postcss-import': {
-      path: [ currentCommonPath || 'src/styles/themes/guosen' ]
+      path: [ currentCommonPath || 'src/styles/themes/dark' ]
     },
     'postcss-cssnext': {}
   }

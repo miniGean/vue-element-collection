@@ -7,10 +7,10 @@ module.exports = {
     elementPath: 'themes/default/theme',
     sort: 1
   },
-  guosen: {
+  dark: {
     name: '默认',
-    path: baseThemePath + '/guosen',
-    elementPath: 'themes/guosen/theme',
+    path: baseThemePath + '/dark',
+    elementPath: 'themes/dark/theme',
     sort: 2
   }
 }

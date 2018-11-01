@@ -6,7 +6,8 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "theme": "vue-cli-service theme-build"
+    "theme": "vue-cli-service theme-build",
+    "theme-build": "vue-cli-service theme-build"
   },
   "dependencies": {
     "vue": "^2.5.17",
@@ -21,7 +22,7 @@
     "lint-staged": "^7.2.2",
     "postcss-cssnext": "^3.1.0",
     "postcss-import": "^12.0.1",
-    "vue-cli-plugin-theme-build": "^1.0.6",
+    "vue-cli-plugin-theme-build": "^1.0.7",
     "vue-template-compiler": "^2.5.17"
   },
   "gitHooks": {
